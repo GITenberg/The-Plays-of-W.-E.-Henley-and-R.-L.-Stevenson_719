@@ -1,5 +1,8 @@
 _repo: The-Plays-of-W.-E.-Henley-and-R.-L.-Stevenson_719
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Stevenson, Robert Louis
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/369
     wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
 description: Deacon Brodie. Beau Austin. Admiral Guinea. Robert Macaire
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/719#The-Plays-of-W.-E.-Henley-and-R.-L.-Stevenson
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
 identifiers:
